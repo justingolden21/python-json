@@ -18,6 +18,10 @@ Use dataStorage.py in your project to easily abstract the problem of interacting
 
 Open data.json with a text editor to view the contents of the data, stored as a json. Note that at minimum <code>{}</code> is required to edit the data via dataStorage.py.
 
+### To Do
+
+- Add screenshots to readme.
+
 ### Contributing
 
 Feel free to submit a pull request but please clearly document what you've changed and thoroughly test the code first. Thank you.
