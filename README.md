@@ -2,6 +2,8 @@
 
 A simple data manager for command line, written in python.
 
+Use dataStorage.py as a simple json library for python.
+
 ### Files
 
 data.json: a json file where the data is stored.
